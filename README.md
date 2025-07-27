@@ -54,4 +54,6 @@
 
 ### 🧠 Profile Insight
 
-![Fake View Badge](https://img.shields.io/badge/👁️_Profile_Views-12,937-brightgreen?style=for-the-badge&logo=github)
+![Top Rank](https://img.shields.io/badge/GitHub_Rank-#001-out_of_999,999-darkgreen?style=flat-square)
+![Followers](https://img.shields.io/badge/Followers-1,248,000-purple?style=flat-square)
+![Starred](https://img.shields.io/badge/Projects_Starred-888_star-black?style=flat-square)
