@@ -52,4 +52,6 @@
 
 ---
 
-![Visitor Badge]([https://img.shields.io/badge/👁️_Profile_Views-12,937-brightgreen?style=for-the-badge&logo=github])
+### 🧠 Profile Insight
+
+![Fake View Badge](https://img.shields.io/badge/👁️_Profile_Views-12,937-brightgreen?style=for-the-badge&logo=github)
