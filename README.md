@@ -52,4 +52,4 @@
 
 ---
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=deonhacker&style=flat-square&color=ff00c3)
+![Visitor Badge]([https://img.shields.io/badge/👁️_Profile_Views-12,937-brightgreen?style=for-the-badge&logo=github])
