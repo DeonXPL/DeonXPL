@@ -1,49 +1,55 @@
-# 👋 Halo, gue Deon
+# 👋 Hey, I'm Deon
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFF0&center=true&vCenter=true&width=480&lines=Bug+Bounty+Hunter;Game+Dev+Indie+%F0%9F%8E%AE;Python+Wizard+%F0%9F%90%9B;Frontend+HTML%2BCSS+%F0%9F%93%9C;Java+Thinker+%F0%9F%96%A4;ChatGPT+Trainer+%F0%9F%92%BB)
-
----
-
-## 🧠 Tentang Gue
-
-- 🚀 Aktif di: Bug Bounty (TikTok, inDrive), game indie horror, dan pengembangan web gelap  
-- 🧩 Skill kuat:  
-  - **Python**: scripting, automasi, analisis data, ESP32  
-  - **HTML + CSS**: UI/UX dark mode, dashboard, animasi  
-  - **Java**: struktur logika, sistem backend  
-  - **ChatGPT**: pelatihan, asisten AI, eksperimen mental  
-- 🧪 Eksperimen: ESP32 Wi-Fi Jammer + Web UI, Telegram bot scanner, Web exploit tool  
-- 🧠 Visi hidup: *"Bukan soal ikut sistem, tapi soal bikin sistem yang lebih waras."*
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFF0&center=true&vCenter=true&width=500&lines=Bug+Bounty+Hunter;Python+%2F+HTML+%2F+Java+Dev;ESP32+Jammer+Engineer;ChatGPT+Specialist;Dark+UI+Web+Builder)
 
 ---
 
-## ⚙️ Tools & Tech
+### 🧠 About Me
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-00A67E?style=flat-square&logo=openai&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-grey?style=flat-square&logo=linux)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+> **"Mereka ikut sistem. Gue bikin sistem baru."**
 
----
-
-## 📊 GitHub Stats
-
-![Deon's GitHub stats](https://github-readme-stats.vercel.app/api?username=deonhacker&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deonhacker&layout=compact&theme=tokyonight)
+- 🧑‍💻 Programmer | Game Dev | Bug Hunter  
+- 🎯 Fokus: TikTok, inDrive, Telegram API, Web Exploit  
+- 💻 Stack: Python, HTML/CSS, Java, ChatGPT  
+- 🔥 Proyek aktif:
+  - Game horor indie: *Ayomi Skyens*
+  - Buku kontroversial: *Apa Yang Salah*
+  - Bot Whatsapp
 
 ---
 
-## 🔗 Kontak & Proyek
-- 💬 Telegram: [@deonhacker](https://t.me/deonhacker)
-- 🌐 Website: (Coming soon...)  
-- 🎮 Game dev: Ayomi Skyens & 3D horror project  
-- 📖 Buku: *Apa Yang Salah* (sudah tahap penulisan & layouting)
+### ⚙️ Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat&logo=css3)
+![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=java)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-000?style=flat&logo=openai)
+![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)
 
 ---
 
-> *"Mereka bilang aneh, gue bilang beda. Mereka jalan di arus, gue bikin sungai sendiri."*
+### 📊 Stats & Language
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=deonhacker&style=flat-square&color=purple)
+![Deon's GitHub stats](https://github-readme-stats.vercel.app/api?username=deonhacker&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deonhacker&layout=compact&theme=merko)
+
+---
+
+### 🌐 Let's Connect
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DeonXPL)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/deonxpl)
+[![TikTok](https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@deonxpl)
+
+---
+
+### 📌 Featured Projects
+
+- 🎮 *Ayomi Skyens*: horror psychological 2D game  
+- 📖 *Apa Yang Salah*: buku tajam kritik sistem sekolah, negara, dan agama  
+
+---
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=deonhacker&style=flat-square&color=ff00c3)
