@@ -1,6 +1,6 @@
 # 👋 Halo, gw Deon
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFF0&center=true&vCenter=true&width=500&lines=Bug+Bounty+Hunter;Python+%2F+HTML+%2F+Java+Dev;ESP32+Jammer+Engineer;ChatGPT+Specialist;Dark+UI+Web+Builder)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFF0&center=true&vCenter=true&width=500&lines=Bug+Hunter;Python+%2F+HTML+%2F+Java+Dev;ESP32+Jammer+Engineer;ChatGPT+Specialist;Banned+Whatsapp)
 
 ---
 
