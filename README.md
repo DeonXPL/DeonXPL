@@ -1,28 +1,27 @@
-# 👋 Halo, gue Deon
+# 👋 Halo, gw Deon
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFF0&center=true&vCenter=true&width=500&lines=Bug+Bounty+Hunter;Python+%2F+HTML+%2F+Java+Dev;ESP32+Jammer+Engineer;ChatGPT+Specialist;Dark+UI+Web+Builder)
 
 ---
 
-## 🧠 Tentang Gue
+## 🧠 Tentang Saia
+Saia cuma siswa smp biasa yang iseng join underground, awal gabung blackhat ujung nya jdi white hat
+btw makasi juga buat temen2 yg dukung saia
 
-> **"Mereka ikut sistem. Gue bikin sistem baru."**
+##Kemampuan
 
-- 👾 Hacker mindset, tapi gak lupa etika  
-- 🔍 Aktif bounty: TikTok, inDrive  
+- 👾 cuma bisa banned whatsapp jirr awowkwwo 
 - 🛠️ Stack: Python, HTML/CSS, Java, ChatGPT  
 - 🧪 Project ongoing:  
-  - Game horor 2D: *Ayomi Skyens*  
-  - Buku tajam: *Apa Yang Salah*  
-  - ESP32 Wi-Fi Jammer w/ Web UI  
-  - Sistem verifikasi bug auto leaderboard
+  - Bot TELEGRAM SCANNING VULN
+
 
 ---
 
 ## 📈 Profile Stats
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=DeonXPL&style=for-the-badge&color=ff00c3)
-> *Setiap klik profil lo bantu naikkan angka ini. Real-time.*
+> *Cuma View Kok.*
 
 ![Deon's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeonXPL&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeonXPL&layout=compact&theme=tokyonight)
@@ -49,18 +48,9 @@
 
 ---
 
-## 🚀 Proyek Unggulan
+## 🧠 kata kata :v
 
-- 🎮 *Ayomi Skyens*: game 2D horror dengan nuansa psikologis
-- 📖 *Apa Yang Salah*: buku kritik sosial, pendidikan, dan negara
-- 🔧 *ESP32 Jammer*: jamming real-time + indikator LED + UI kontrol
-- 🕵️ *Bug Proof System*: upload bukti, auto-approve ke leaderboard
-
----
-
-## 🧠 Quotes
-
-> _“Mereka buang, gue bangun. Mereka lupa, gue rangkul. Mereka nyari sukses, gue nyari makna.”_
+> _“Kangen Masanya Bukan Orangnya.”_
 
 ---
 
