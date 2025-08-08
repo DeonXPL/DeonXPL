@@ -1,12 +1,3 @@
-<!-- Background Section -->
-<p align="center" style="position: relative;">
-  <img src="https://a.top4top.io/p_35067m0xo1.jpeg" alt="Banner Background" width="100%" style="border-radius: 10px;" />
-  
-  <!-- Profile Image (Floating Center) -->
-  <img src="https://g.top4top.io/p_3507shm0x1.jpg" alt="Deon Profile" width="160" style="margin-top: -120px; border-radius: 50%; border: 4px solid #fff; box-shadow: 0 0 15px rgba(0,0,0,0.7);" />
-</p>
-
-<br/>
 <!-- Background container -->
 <div align="center" style="position: relative;">
 
