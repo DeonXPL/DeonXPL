@@ -1,4 +1,14 @@
-# HI I'M Deon
+<!-- Background Section -->
+<p align="center" style="position: relative;">
+  <img src="https://a.top4top.io/p_35067m0xo1.jpeg" alt="Banner Background" width="100%" style="border-radius: 10px;" />
+  
+  <!-- Profile Image (Floating Center) -->
+  <img src="https://g.top4top.io/p_3507shm0x1.jpg" alt="Deon Profile" width="160" style="margin-top: -120px; border-radius: 50%; border: 4px solid #fff; box-shadow: 0 0 15px rgba(0,0,0,0.7);" />
+</p>
+
+<br/>
+
+# 🧠 Deon
 
 📍 Based in reality, but rarely follows its rules.  
 Game Developer | Writer | System Critic | Front-End + Python Dev
@@ -30,8 +40,8 @@ Game Developer | Writer | System Critic | Front-End + Python Dev
 
 ## 📬 Contact Me
 
-- 📧 Email: [deon.project@gmail.com](mailto:deon.project@gmail.com)  
-- 💬 Telegram: [@deonverse](https://t.me/deonverse)
+- 📧 Email: [deonxploit@gmail.com](mailto:deonxploit@gmail.com)  
+- 💬 Telegram: [@DeonXPL](https://t.me/DeonXPL)
 
 ---
 
@@ -46,14 +56,6 @@ _(Admin control enabled. ESP32 may join uninvited.)_
 ## 📊 GitHub Stats
 
 ![Deon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-
----
-
-## 🖼 Profile Banner
-
-Want the same banner as mine? Download it here and upload to your profile:  
-**🔗 [Banner Link]([https://i.imgur.com/lY3nJZB.png](https://a.top4top.io/p_35067m0xo1.jpeg))**  
-![Banner Preview]([https://i.imgur.com/lY3nJZB.png](https://a.top4top.io/p_35067m0xo1.jpeg))
 
 ---
 
