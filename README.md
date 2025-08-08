@@ -7,6 +7,28 @@
 </p>
 
 <br/>
+<!-- Background container -->
+<div align="center" style="position: relative;">
+
+  <!-- Background image -->
+  <img src="https://a.top4top.io/p_35067m0xo1.jpeg" width="100%" style="filter: blur(2px); border-radius: 10px;" alt="Background"/>
+
+  <!-- Profile photo in circle with border -->
+  <img src="https://g.top4top.io/p_3507shm0x1.jpg"
+       width="160"
+       alt="Deon"
+       style="
+         position: absolute;
+         top: 50%;
+         left: 50%;
+         transform: translate(-50%, -50%);
+         border-radius: 50%;
+         border: 5px solid white;
+         box-shadow: 0 0 15px rgba(0,0,0,0.5);
+       "/>
+
+</div>
+
 
 # 🧠 Deon
 
